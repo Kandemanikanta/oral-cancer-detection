@@ -1,0 +1,6 @@
+{
+  "name": "Explainable AI for Oral Cancer Detection",
+  "description": "An interactive clinical decision support application demonstrating Explainable AI (XAI) using CNN, VGG16, SHAP, LIME, and Grad-CAM for predicting and interpreting cancerous vs. non-cancerous oral lesions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
